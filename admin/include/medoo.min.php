@@ -8,7 +8,7 @@ class medoo {
 	
 	protected $username = 'quizsite';
 	
-	protected $password = 'qQl8$#jkPwl0';
+	protected $password = '';
 
 	// For SQLite
 	protected $database_file = '';
